@@ -13,8 +13,8 @@
 
 
 <p align="left"> 
-<a href="https://twitter.com/harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/harikrushn9?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
-<a href="https://www.linkedin.com/in/harikrushn-kanani"><img src="https://img.shields.io/badge/-harikrushn%20kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/ChetuAtrawalkar" target="blank"><img src="https://img.shields.io/twitter/follow/ChetuAtrawalkar?logo=twitter&style=for-the-badge" alt="ChetuAtrawalkar" /></a>
+<a href="https://www.linkedin.com/in/chetan-atrawalkar-b0a25973"><img src="https://img.shields.io/badge/-harikrushn%20kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://harikanani.github.io/" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>
 </p>
 
