@@ -1,5 +1,4 @@
-<h1 align="center"> Hi There 👋 , I'm Chetan Atrawalkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<h1 align="center"> Hi There 🙏 , I'm Chetan Atrawalkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Full Stack Developer, Blogger and Freelancer!!</h3>
 
@@ -15,31 +14,31 @@
 <p align="left"> 
 <a href="https://twitter.com/ChetuAtrawalkar" target="blank"><img src="https://img.shields.io/twitter/follow/ChetuAtrawalkar?logo=twitter&style=for-the-badge" alt="ChetuAtrawalkar" /></a>
 <a href="https://www.linkedin.com/in/chetan-atrawalkar-b0a25973"><img src="https://img.shields.io/badge/-chetan%20atrawalkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://harikanani.github.io/" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>
+<!--<a href="https://harikanani.github.io/" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a> -->
 </p>
 
 <hr>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 About me </h3>
+<h3> 😎 About me </h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
+- ☢️ I’m currently working on [Personal-Portfolio](https://github.com/ChetanAtrawalkarCA/Personal-Portfolio)
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 👨‍🎓 I’m **LifeLong Learner 🤪**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/harikanani/)
+- 🧑‍💻 All of my projects are available at [https://github.com/ChetanAtrawalkarCA/](https://github.com/ChetanAtrawalkarCA/)
 
-- 💬 Ask me about **Python,JavaScript,Node.Js**
+- 💬 Ask me about **ReactJS,JavaScript,SASS,MongoDB,Node.Js**
 
-- 📫 How to reach me **harikanani2003@gmail.com**
+- 📧 How to reach me **chetanatrawalkar1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harikrushn-kanani/](https://www.linkedin.com/in/harikrushn-kanani/)
+- 📚 Know about my experiences [https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/](https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/)
 
-- ⚡ Fun fact **I love to code**
+- 💠 Fun fact **I love Coding, Blogging, Gaming**
 
-<h3> 🏆 Badges </h3>
+<!--<h3> 🏆 Badges </h3>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> -->
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
