@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There 🙏 , I'm Chetan Atrawalkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hi There 🙏 , I'm Chetan Atrawalkar <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Full Stack Developer, Blogger and Freelancer!!</h3>
 
