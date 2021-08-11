@@ -12,7 +12,7 @@
 
 
 <p align="left"> 
-<a href="https://twitter.com/ChetuAtrawalkar" target="blank"><img src="https://img.shields.io/twitter/follow/ChetuAtrawalkar?logo=twitter&style=for-the-badge" alt="ChetuAtrawalkar" /></a>
+<a href="https://twitter.com/ChetuAtrawalkar" target="blank"><img src="https://img.shields.io/twitter/follow/ChetuAtrawalkar?logo=twitter&style=for-the-badge&logo=twitter&logoColor=white" alt="ChetuAtrawalkar" /></a>
 <a href="https://www.linkedin.com/in/chetan-atrawalkar-b0a25973"><img src="https://img.shields.io/badge/-chetan%20atrawalkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/chetan.fullstack"><img src="https://img.shields.io/badge/chetan.fullstack-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!--<a href="https://harikanani.github.io/" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a> -->
