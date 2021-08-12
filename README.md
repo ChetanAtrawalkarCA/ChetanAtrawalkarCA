@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Full Stack Developer, Blogger and Freelancer!!</h3>
 
-<p>
+<p align="center">
     <a href="https://github.com/ChetanAtrawalkarCA/"><img src="https://img.shields.io/github/followers/ChetanAtrawalkarCA?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/ChetanAtrawalkarCA?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="mailto:chetanatrawalkar1@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Chetan :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
@@ -11,7 +11,7 @@
   </p>
 
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <!-- <a href="https://twitter.com/ChetuAtrawalkar" target="blank"><img src="https://img.shields.io/twitter/follow/ChetuAtrawalkar?logo=twitter&style=for-the-badge&logo=twitter&logoColor=white" alt="ChetuAtrawalkar" /></a> -->
 <a href="https://www.linkedin.com/in/chetan-atrawalkar-b0a25973"><img src="https://img.shields.io/badge/-chetan%20atrawalkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
