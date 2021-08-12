@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There 🙏 , I'm Chetan Atrawalkar <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> ! </h1>
+<h1 align="center"> Hi There <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> , I'm Chetan Atrawalkar <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Full Stack Developer, Blogger and Freelancer!!</h3>
 
@@ -20,8 +20,8 @@
 </p>
 
 <hr>
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<!--<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h3> 😎 About me </h3>
 
 - ☢️ I’m currently working on [Personal-Portfolio](https://github.com/ChetanAtrawalkarCA/Personal-Portfolio)
