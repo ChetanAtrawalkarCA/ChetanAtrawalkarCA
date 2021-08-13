@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> , I'm Chetan Atrawalkar <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<img src="https://res.cloudinary.com/chetan-ca/image/upload/v1628850999/Webdev_Coder_t5tbox.png"/>
+<img src="https://res.cloudinary.com/chetan-ca/video/upload/v1628851176/Webdev_Coder_zp5cip.mp4"/>
 <h3 align="center">I'm a Full Stack Developer, Blogger and Freelancer!!</h3>
 
 <p align="center">
