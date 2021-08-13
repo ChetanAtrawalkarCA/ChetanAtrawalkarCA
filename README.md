@@ -28,13 +28,11 @@
 
 - 👨‍🎓 I’m **LifeLong Learner 🤪**
 
-- 🧑‍💻 All of my projects are available at [https://github.com/ChetanAtrawalkarCA/](https://github.com/ChetanAtrawalkarCA/)
-
-- 💬 Ask me about **ReactJS,JavaScript,SASS,MongoDB,Node.Js**
+- 🧑‍💻 All of my projects are available at [GitHub](https://github.com/ChetanAtrawalkarCA/)
 
 - 📧 How to reach me **chetanatrawalkar1@gmail.com**
 
-- 📚 Know about my experiences [https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/](https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/)
+- 📚 Know about my experiences [Here](https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/)
 
 - 💠 Fun fact **I love Coding, Blogging, Gaming**
 
