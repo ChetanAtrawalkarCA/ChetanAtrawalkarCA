@@ -85,22 +85,16 @@
     </a> 
         <a href="https://www.npmjs.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="35" height="35"/></code> 
-    </a> 
-        <a href="https://redis.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://dart.dev/" target="_blank"> 
-        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="35" height="35"/></code> 
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> 
+    </a>  
+<!--     <a href="https://flutter.dev/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35"/></code> 
-    </a>
+    </a> -->
     <a href="https://getbootstrap.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="35" height="35"/></code> 
     </a>   
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
+<!--     <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/></code> 
-    </a> 
+    </a>  -->
     <a href="https://atom.io/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="35" height="35"/></code> 
     </a>
@@ -116,9 +110,9 @@
     <a href="https://github.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="35" height="35"/></code> 
     </a> 
-    <a href="https://bitbucket.org/" target="_blank"> 
+<!--     <a href="https://bitbucket.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="35" height="35"/></code> 
-    </a> 
+    </a>  -->
     <a href="https://gitlab.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="35" height="35"/></code> 
     </a> 
@@ -131,9 +125,9 @@
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.nginx.com/" target="_blank"> 
+<!--     <a href="https://www.nginx.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35"/></code> 
-    </a> 
+    </a>  -->
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="35" height="35"/></code> 
     </a> 
