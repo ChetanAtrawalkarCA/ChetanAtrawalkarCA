@@ -158,7 +158,7 @@
 ### Github Activity ✔:
 
 <a href="https://github.com/ChetanAtrawalkarCA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAtrawalkarCA&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAtrawalkarCA&theme=radical" />
   </a>
 
 <a href="https://github.com/ChetanAtrawalkarCA">
