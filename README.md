@@ -194,7 +194,6 @@
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)
 
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=harikanani&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
