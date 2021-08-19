@@ -155,13 +155,20 @@
 <h3 align="left"> 🧡 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harikanani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harikanani" /></a></p><br><br><br>
 
-<h3> ⚡ GitHub Activity:
-            
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="harikanani" /></p>
+### Github Activity ✔:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="harikanani" height="195px"/></p>
-<br><br><br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p> -->
+<a href="https://github.com/ChetanAtrawalkarCA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/ChetanAtrawalkarCA">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)
 
