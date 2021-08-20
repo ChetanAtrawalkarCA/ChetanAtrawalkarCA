@@ -153,7 +153,7 @@
 
 
 <h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harikanani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harikanani" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/chetan.ca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chetan-atrawalkar" /></a></p><br><br><br>
 
 ### Github Activity ✔:
 
