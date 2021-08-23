@@ -197,5 +197,3 @@
 
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=ChetanAtrawalkarCA&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
- 
-[![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChetanAtrawalkarCA&theme=radical)](https://git.io/ChetanAtrawalkarCA)
