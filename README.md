@@ -29,13 +29,13 @@
 
 - 👨‍🎓 I’m **LifeLong Learner 🤪**
 
-- 🧑‍💻 All of my projects are available at [GitHub](https://github.com/ChetanAtrawalkarCA/)
+- 🧑‍💻 All of my projects are here [GitHub](https://github.com/ChetanAtrawalkarCA/)
 
 - 📧 How to reach me **chetanatrawalkar1@gmail.com**
 
 - 📚 Know about my experiences [Here](https://www.linkedin.com/in/chetan-atrawalkar-b0a25973/)
 
-- 💠 Fun fact **I love Coding, Blogging, Gaming**
+- 💠 Fun fact **I love Coding, Blogging, Gaming.**
 
 <!--<h3> 🏆 Badges </h3>
 
